@@ -1,2 +1,2 @@
-# Neural-Netrork-aCO-Training-Algorithm
+# Neural-Netrork-ACO-Training-Algorithm
 SCO algorithm to train large dataset
